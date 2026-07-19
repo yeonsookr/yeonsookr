@@ -10,7 +10,7 @@
 | 객체지향프로그래밍 강의 수강 | 명지대학교 제휴 앱 | - | [GitHub](https://github.com/yeonsookr/map_affiliated_chat_household.git) |
 | 머신러닝 강의 청강 | AMI 데이터를 활용한 에너지 최적화 기계학습 모형 개발 | 2023년 한국디지털콘텐츠학회 대학생 논문경진대회 동상 | [GitHub](https://github.com/yeonsookr/machinelearning.git) |
 | SSAFY VQA Challenge | **보안** | 정확도 0.89475 | - |
-| SSAFY X KAKAO AI Hackerton - HanIp | 마이데이터 기반 맞춤형 AI 국세 정책 상담 서비스 | ProtoType | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
+| SSAFY X KAKAO AI Hackerthon - HanIp | 마이데이터 기반 맞춤형 AI 국세 정책 상담 서비스 | ProtoType | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
 | SSAFY 관통PJT | 개인화 금융상품 추천 플랫폼 | - | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
 | SSAFY race | **보안** | SSAFY Map 2등, 모든 봇 승리, Basic 4등 |  |
 | SSAFY 공통PJT(진행중) | 산불·조난 대응 드론·OrinCar 통합 관제 시스템 | 진행중 | [GitHub](https://github.com/yeonsookr/ai-drone-vehicle-fire-rescue-control.git) |
