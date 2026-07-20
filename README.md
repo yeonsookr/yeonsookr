@@ -1,4 +1,5 @@
 # Bridging Technical Excellence and Business Value
+도전과 협력을 통해 함께 성장하고 싶습니다.
 
 ---
 
