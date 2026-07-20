@@ -16,8 +16,9 @@
 | SSAFY race | **보안** | SSAFY Map 2등, 모든 봇 승리, Basic 4등 | Private |
 | SSAFY 공통PJT(진행중) | 산불·조난 대응 드론·OrinCar 통합 관제 시스템 | 진행중 | [GitHub](https://github.com/yeonsookr/ai-drone-vehicle-fire-rescue-control.git) |
 | Finfeed(진행중) | 금융 IT 기술블로그 큐레이션 | 진행중 | [GitHub](https://github.com/yeonsookr/fin-feed.git) |
-| 지도앱(예정) | 내가 가본 길에 대한 기록 | 예정 | - |
-| 부동산 예측(예정) | 실거주 만족도 예측 프로그램 | 예정 | - |
+| 지도앱(기획 구체화 중) | 내가 가본 길에 대한 기록 | 예정 | - |
+| 부동산 예측(기획 구체화 중) | 실거주 만족도 예측 프로그램 | 예정 | - |
+| 전동스쿠터용 자율주행 모델(기획 구체화 중) | 보도 및 실내에서의 자율주행 | 예정 | - |
 
 ---
 
