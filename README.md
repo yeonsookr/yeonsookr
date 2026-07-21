@@ -18,7 +18,7 @@
 | 머신러닝 강의 청강 | AMI 데이터를 활용한 에너지 최적화 기계학습 모형 개발 | 2023년 한국디지털콘텐츠학회 대학생 논문경진대회 동상 | [GitHub](https://github.com/yeonsookr/machinelearning.git) |
 | <span style="color:#4A90E2">**SSAFY**</span> |  |  |  |
 | 주식 자동 매매 프로그램(진행중) | 키움증권 주식 자동 매매 프로그램 | 진행중 | - |
-| SSAFY VQA Challenge | Image-QA AI Model tuning | 정확도 0.89475 | **보안** |
+| SSAFY VQA Challenge | Image-Question-Answer AI Model tuning | 정확도 0.89475 | **보안** |
 | SSAFY X KAKAO AI Hackerthon - HanIp | 마이데이터 기반 맞춤형 AI 국세 정책 상담 서비스 | ProtoType | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
 | SSAFY 관통PJT | 개인화 금융상품 추천 플랫폼 | - | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
 | SSAFY race | Map 종류, 장애물, 경쟁자 여부에 따른 주행 알고리즘 | SSAFY Map 2등, 모든 봇 승리, Basic 4등 | **보안** |
