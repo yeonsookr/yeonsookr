@@ -23,9 +23,9 @@
 | SSAFY 관통PJT | 개인화 금융상품 추천 플랫폼 | - | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
 | SSAFY race | Map 종류, 장애물, 경쟁자 여부에 따른 주행 알고리즘 | SSAFY Map 2등, 모든 봇 승리, Basic 4등 | **보안** |
 | SSAFY 공통PJT(진행중) | 산불·조난 대응 드론·OrinCar 통합 관제 시스템 | 진행중 | [GitHub](https://github.com/yeonsookr/ai-drone-vehicle-fire-rescue-control.git) |
-| Finfeed(진행중) | 금융 IT 기술블로그 큐레이션 | 진행중 | [GitHub](https://github.com/yeonsookr/fin-feed.git) |
-| 지도앱(진행중) | 내가 가본 길에 대한 기록 | 기획 구체화 중 | - |
-| 부동산 예측(진행중) | 실거주 만족도 예측 프로그램 | 기획 구체화 중 | - |
+| fin-feed(진행중) | 금융 IT 기술블로그 큐레이션 | 진행중 | [GitHub](https://github.com/yeonsookr/fin-feed.git) |
+| Roading(진행중) | 내가 가본 길에 대한 기록 | 기획 구체화 중 | - |
+| LivingSight(진행중) | 3D 실거주 환경 시뮬레이션 | 기획 구체화 중 | - |
 | 전동스쿠터용 자율주행 모델(진행중) | 보도 및 실내에서의 자율주행 | 기획 구체화 중 | - |
 
 ---
