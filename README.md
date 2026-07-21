@@ -4,8 +4,7 @@
 
 ## 현재 관심사
 1. GitLab/Github(Git Flow 준수), JIRA, Notion을 활용한 Agile 협업
-2. SI, QA 기반 E2E 개발 및 CI/CD
-3. 
+2. SI, CI/CD, QA 기반 E2E 개발
 
 ---
 
