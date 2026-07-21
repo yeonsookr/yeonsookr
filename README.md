@@ -2,8 +2,8 @@
 전체 시스템 구조에 대한 이해와 현업 수준의 깊은 기술 이해도를 바탕으로, 비즈니스 목표와 개발 현장 간 소통을 이끄는 전문가를 지향합니다.
 
 ## 현재 관심사
-1. [협업 &소통] GitLab/Github(Git Flow 준수), JIRA, Notion을 활용한 Agile 협업
-2. [개발 프로세스] SI, CI/CD, QA 기반 E2E 개발
+1. **[협업 &소통]** GitLab/Github(Git Flow 준수), JIRA, Notion을 활용한 Agile 협업
+2. **[개발 프로세스]** SI, CI/CD, QA 기반 E2E 개발
 
 ---
 
