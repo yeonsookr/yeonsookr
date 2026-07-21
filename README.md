@@ -19,7 +19,7 @@
 | **SSAFY** |  |  |  |  |
 | 주식 자동 매매 프로그램(진행중) | 키움증권 주식 자동 매매 프로그램 | 아키텍처 설계 중 | - | - |
 | SSAFY VQA Challenge | Image-Question-Answer AI Model tuning | 정확도 0.89475 | 데이터 전처리 및 단계별 전략 세분화의 중요성 | **보안** |
-| SSAFY X KAKAO AI Hackerthon - HanIp | 마이데이터 기반 맞춤형 AI 국세 정책 상담 서비스 | ProtoType | 상세한 기획, Notion 등 문서화, Git활용 및 브랜치 전략 수립을 통한 Agile 업무 프로세스 숙지의 중요성 | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
+| SSAFY X KAKAO AI Hackerthon - HanIp | 마이데이터 기반 맞춤형 AI 국세 정책 상담 서비스 | ProtoType | '상세한 기획, Notion 등 문서화, Git활용 및 브랜치 전략 수립을 통한 Agile 업무 프로세스 숙지'와 'UI/UX feddback' 중요성,  | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
 | SSAFY 관통PJT | 개인화 금융상품 추천 플랫폼 | - | Git Flow 시행착오 | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
 | SSAFY race | Map 종류, 장애물, 경쟁자 여부에 따른 주행 알고리즘 | - | SSAFY Map 2등, 모든 봇 승리, Basic 4등 | **보안** |
 | SSAFY 공통PJT(진행중) | 산불·조난 대응 드론·OrinCar 통합 관제 시스템 | 개발 진행중(AI & SI & QA 업무 수행) | Jira, 스크럼, 회고 회의 등 협업 방식 학습 | [GitHub](https://github.com/yeonsookr/ai-drone-vehicle-fire-rescue-control.git) |
