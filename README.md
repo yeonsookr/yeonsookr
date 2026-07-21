@@ -2,7 +2,7 @@
 도전과 협력을 통해 함께 성장하고 싶습니다.
 
 ## 현재 관심사
-1. GitLab, Github, JIRA, Notion을 활용한 Agile 협업
+1. GitLab/Github(Git Flow 준수), JIRA, Notion을 활용한 Agile 협업
 2. E2E 개발 및 CI/CD
 3. SI, QA
 
