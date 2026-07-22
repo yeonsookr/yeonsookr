@@ -2,8 +2,8 @@
 전체 시스템 구조에 대한 이해와 현업 수준의 깊은 기술 이해도를 바탕으로, 비즈니스 목표와 개발 현장 간 소통을 이끄는 전문가를 지향합니다.
 
 ## 현재 관심사
-1. **[협업 & 소통]** GitLab/Github(Git Flow 준수), JIRA, Notion을 활용한 Agile 협업
-2. **[개발 프로세스]** UI/UX, SI, CI/CD, QA 기반 E2E 개발
+1. **[협업 & 소통]** GitLab/Github(**Git Flow 준수**), JIRA, Notion을 활용한 Agile 협업
+2. **[개발 프로세스]** UI/UX, **SI**, CI/CD, **QA** 기반 E2E 개발
 
 ---
 
@@ -22,7 +22,7 @@
 | SSAFY X KAKAO AI Hackerthon - HanIp | 마이데이터 기반 맞춤형 AI 국세 정책 상담 서비스 | ProtoType | '상세한 기획, Notion 등 문서화, Git활용 및 브랜치 전략 수립을 통한 Agile 업무 프로세스 숙지'와 'UI/UX feddback' 중요성,  | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
 | SSAFY 관통PJT | 개인화 금융상품 추천 플랫폼 | - | Git Flow 시행착오 | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
 | SSAFY race | Map 종류, 장애물, 경쟁자 여부에 따른 주행 알고리즘 | - | SSAFY Map 2등, 모든 봇 승리, Basic 4등 | **보안** |
-| SSAFY 공통PJT(진행중) | 산불·조난 대응 드론·OrinCar 통합 관제 시스템 | 개발 진행중(AI & SI & QA 업무 수행) | Jira, 스크럼, 회고 회의 등 협업 방식 학습 | [GitHub](https://github.com/yeonsookr/ai-drone-vehicle-fire-rescue-control.git) |
+| **SSAFY 공통PJT(진행중)** | **산불·조난 대응 드론·OrinCar 통합 관제 시스템** | **개발 진행중(AI & SI & QA 업무 수행)** | **Jira, 스크럼, 회고 회의 등 협업 방식 학습** | **[GitHub](https://github.com/yeonsookr/ai-drone-vehicle-fire-rescue-control.git)** |
 | fin-feed(진행중) | 금융 IT 기술블로그 큐레이션 | 기여 중 | Github 기능들 학습 | [GitHub](https://github.com/yeonsookr/fin-feed.git) |
 | Roading(진행중) | 내가 가본 길에 대한 기록 | 아키텍처 설계 중 | - | - |
 | LivingSight(진행중) | 3D 실거주 환경 시뮬레이션 | 아키텍처 설계 중 | - | - |
