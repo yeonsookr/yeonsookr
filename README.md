@@ -25,7 +25,7 @@
 | **SSAFY**<br>*(진행 중)* | **Komit**<br>바이브코딩 앱 출시 검사·개발자 매칭·AI 계약 동행, 서비스 유지관리 플랫폼 | AI<br>스크럼 마스터 | 서비스 기획<br>UI/UX 검토<br>QA 중심 E2E 개발 과정 관리<br>AI 개발(코드 검사 모델, 요청서 요약 모델, 의뢰인용 QA문서 생성 모) | 기획 마무리 단계 | **비공개** |
 | **SSAFY**<br> | **산불·구조 통합 관제 시스템(드론/OrinCar)** | AI<br>SI<br>QA | 1. 산불, 산불연기, 조난자 탐지 AI 모델 개발<br>2. 온디바이스 최적화<br>SI 및 QA 문서 작성 및 관리 | 시연 완료 | **곧 공개** |
 | **SSAFY** | [2026년 인공지능(AI) 신약개발 경진대회 개최(4th JUMP AI, Fourth.py)](https://www.khidi.or.kr/board/view?pageNum=1&rowCnt=10&no1=9999999998&linkId=48946784&menuId=MENU01108&maxIndex=&minIndex=&schType=0&schText=&schStartDate=&schEndDate=&boardStyle=&categoryId=&continent=&country=) | TPM<br>AI<br>연구 | 도구를 활용한 분자 최적화 루프 | 진행 중 | [Notion](https://freckle-snow-4b0.notion.site/2026-AI-4th-JUMP-AI-Fourth-py-3b0d7fe30d3c80219b60e739f1a110c1?source=copy_link) |
-| **SSAFY** | **Fin-feed**<br>금융·IT 기술 블로그 큐레이션 | **기여자(개발자)** | UI/UX 개선 | - | [GitHub](https://github.com/yeonsookr/fin-feed.git) |
+| **SSAFY** | **Fin-feed**<br>금융·IT 기술 블로그 큐레이션 | 기여자(개발자) | UI/UX 개선 | - | [GitHub](https://github.com/yeonsookr/fin-feed.git) |
 | **SSAFY** | **SSAFY Race(자율주행 알고리즘)** | 알고리즘 엔지니어 | 지도와 장애물 기반의 적응형 경로 탐색 알고리즘 개발 | **2위(SSAFY 맵)** | **비공개** |
 | **SSAFY** | **개인 맞춤형 금융상품 추천 플랫폼** | FE<br>테크니컬 PM | 1. 기술 커뮤니케이션<br>2. 프로젝트 문서화<br>3. 브랜치 전략 확립, 버전 관리 장애 복구 | 시연 완료 | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
 | **SSAFY** | **HanIp(SSAFY X KAKAO AI 해커톤)**<br>맞춤형 AI 세무 상담 서비스(MyData) | PM | 1. 기획<br>2. 사용자 중심 UI/UX 피드백 개선 | 1. 프로토타입 개발<br>2. 추가 개발 진행 중 | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
