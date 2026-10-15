@@ -25,6 +25,7 @@
 | **SSAFY** | **Komit**<br>바이브코딩 앱 출시 검사·개발자 매칭·AI 계약 동행, 서비스 유지관리 플랫폼 | Fullstack<br>AI<br>스크럼 마스터 | 1. 서비스 기획 및 UI/UX 검토<br>2. QA 중심 E2E 개발 과정 관리<br>3. AI 개발(코드 검사 모델, 요청서 요약 모델, 의뢰인용 QA 문서 생성 모델) | 종료 및 리팩토링 단계 | **비공개**<br>(코드 반출 신청 중) |
 | **SSAFY** | **산불·구조 통합 관제 시스템(드론/OrinCar)** | AI<br>SI<br>QA | 1. 산불, 산불연기, 조난자 탐지 AI 모델 개발<br>2. 온디바이스 최적화<br>3. SI 및 QA 문서 작성 및 관리 | 시연 완료 | **[GitHub](https://github.com/yeonsookr/firezero.git)** |
 | **SSAFY** | **SSAFY Race(자율주행 알고리즘)** | 알고리즘 엔지니어 | 지도와 장애물 기반의 적응형 경로 탐색 알고리즘 개발 | **2위(SSAFY 맵)** | **비공개** |
+| **SSAFY** | **개인 맞춤형 금융상품 추천 플랫폼** | FE<br>테크니컬 PM | 1. 기술 커뮤니케이션<br>2. 프로젝트 문서화<br>3. 브랜치 전략 확립, 버전 관리 장애 복구 | 시연 완료 | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
 | **SSAFY** | **HanIp(SSAFY X KAKAO AI 해커톤)**<br>맞춤형 AI 세무 상담 서비스(MyData) | PM | 1. 기획<br>2. 사용자 중심 UI/UX 피드백 개선 | 1. 프로토타입 개발<br>2. 추가 개발 진행 중 | [GitHub](https://github.com/HanIp-Lab/TaxMate_Prototype.git) |
 | **SSAFY** | **SSAFY VQA Challenge**<br>이미지 질의응답 AI 모델 튜닝 | AI 엔지니어 | 1. 데이터 전처리<br>2. AI 모델 파인튜닝 | **정확도 89.475%** | **비공개** |
 | **대학교** | **AMI 데이터 기반 에너지 최적화 ML 모델** | 데이터 분석가<br>연구 | 1. AMI 업종별 전력 사용량·기상 데이터 전처리, EDA, 파생변수 도출<br>2. RandomForest, XGBoost, LightGBM 학습, Elbow method로 최적 군집 3개 분류<br>3. 실시간 전력량 예측 모형 개발 및 에너지 최적화 방안 제시 | **2023년 한국디지털콘텐츠학회 대학생 논문경진대회 동상** ((사)한국디지털콘텐츠학회) | [GitHub](https://github.com/yeonsookr/machinelearning.git) |
