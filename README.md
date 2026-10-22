@@ -18,11 +18,17 @@
 
 # 프로젝트
 
+<a href="docs/project-portfolio.pdf">
+  <img src="docs/images/project-portfolio.gif" alt="불씨제로·코밋·한끗 프로젝트 포트폴리오" width="100%">
+</a>
+
+[포트폴리오 PDF 보기](docs/project-portfolio.pdf)
+
 
 | 분류 | 프로젝트 | 역할 | 세부 역할 | 성과 | 링크 |
 | --- | --- | --- | --- | --- | --- |
 | **SSAFY** | **AI 실전 모의면접 서비스**(자율 프로젝트)<br>회사 자료 기반 맞춤 질문·근거 평가·듣는 중 반응하는 면접관 | FE<br>(면접관 표현·TTS)연구<br>AI개발 및 데이터 분석 | 1. 면접관 표현 모듈 설계: 경청·생각·발화 상태와 반응을 면접관 화면으로 표현<br>2. 질문 음성 출력(TTS)과 입 모양 연동<br>3. 2D/3D 면접관 표현 방식 프로토타입 검증 | 진행 중 | **비공개** |
-| **SSAFY** | **Komit**<br>바이브코딩 앱 출시 검사·개발자 매칭·AI 계약 동행, 서비스 유지관리 플랫폼 | Fullstack<br>AI<br>스크럼 마스터 | 1. 서비스 기획 및 UI/UX 검토<br>2. QA 중심 E2E 개발 과정 관리<br>3. AI 개발(코드 검사 모델, 요청서 요약 모델, 의뢰인용 QA 문서 생성 모델) | 종료 및 리팩토링 단계 | **비공개**<br>(코드 반출 신청 중) |
+| **SSAFY** | **Komit**<br>바이브코딩 앱 출시 검사·개발자 매칭·AI 계약 동행, 서비스 유지관리 플랫폼 | Fullstack<br>AI<br>스크럼 마스터 | 1. 서비스 기획 및 UI/UX 검토<br>2. QA 중심 E2E 개발 과정 관리<br>3. AI 개발(코드 검사 모델, 요청서 요약 모델, 의뢰인용 QA 문서 생성 모델) | 종료 및 리팩토링 단계 | **[GitHub](https://github.com/yeonsookr/Komit.git)** |
 | **SSAFY** | **산불·구조 통합 관제 시스템(드론/OrinCar)** | AI<br>SI<br>QA | 1. 산불, 산불연기, 조난자 탐지 AI 모델 개발<br>2. 온디바이스 최적화<br>3. SI 및 QA 문서 작성 및 관리 | 시연 완료 | **[GitHub](https://github.com/yeonsookr/firezero.git)** |
 | **SSAFY** | **SSAFY Race(자율주행 알고리즘)** | 알고리즘 엔지니어 | 지도와 장애물 기반의 적응형 경로 탐색 알고리즘 개발 | **2위(SSAFY 맵)** | **비공개** |
 | **SSAFY** | **개인 맞춤형 금융상품 추천 플랫폼** | FE<br>테크니컬 PM | 1. 기술 커뮤니케이션<br>2. 프로젝트 문서화<br>3. 브랜치 전략 확립, 버전 관리 장애 복구 | 시연 완료 | [GitHub](https://github.com/yeonsookr/personalized-bank-recommender.git) |
